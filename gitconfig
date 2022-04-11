@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = btn.louise@gmail.com
+	name = Louise Bouton
